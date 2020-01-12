@@ -5,7 +5,7 @@ subtitle = "Dit gaat over ons"
 title = "Over ons"
 [menu.main]
 name = "over ons"
-weight = 2
+weight = 3
 
 +++
 Rob is een ..... 

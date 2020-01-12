@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "foto's ",
+      "icon": "fa-photo",
+      "url": "https://photos.app.goo.gl/wiRAWTnU8Rzh6gyC6 "
+    },
+    {
       "title": "gmail",
       "icon": "fa-gmail",
       "url": "https://www.gmail.com"

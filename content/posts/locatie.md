@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2020-01-11T23:00:00Z
-draft = true
 excerpt = ""
 hide_header = false
 layout = "post"

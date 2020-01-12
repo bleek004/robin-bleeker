@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: Perla Tranquilla
 date: 2019-04-09
 thumb_img_path: "/images/000002.jpg"
 content_img_path: "/images/000029.jpg"

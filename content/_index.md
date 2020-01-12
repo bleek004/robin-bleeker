@@ -1,9 +1,8 @@
 ---
-title: Home
+title: Start
 layout: home
 menu:
   main:
-    name: Start
     weight: 1
 
 ---

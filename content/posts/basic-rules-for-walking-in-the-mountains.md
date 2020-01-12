@@ -9,7 +9,6 @@ excerpt: Hiking is sometimes referred to as such. This specifically refers to di
 layout: post
 subtitle: ''
 hide_header: false
-draft: true
 
 ---
 ![Hiking](/images/000029.jpg)

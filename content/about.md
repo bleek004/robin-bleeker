@@ -5,7 +5,7 @@ img_path: "/images/20190707_114711.jpg"
 layout: page
 menu:
   main:
-    name: About
+    name: Over ons
     weight: 2
 
 ---

@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "gmail",
+      "icon": "gmail",
+      "url": "www.gmail.com"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",

@@ -1,11 +1,12 @@
 ---
-title: Get in Touch
-img_path: images/contact.jpg
+title: Neem contact op met
+img_path: "/images/CIMG9208.JPG"
+layout: contact
+subtitle: ''
 menu:
   main:
     name: Contact
     weight: 6
-layout: contact
----
 
+---
 To get in touch fill the form below.

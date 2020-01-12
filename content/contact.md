@@ -9,4 +9,4 @@ menu:
     weight: 3
 
 ---
-To get in touch fill the form below.
+Om contact op te nemen vul het formulier in of stuur een mail naar perlatranquilla@gmail.com 

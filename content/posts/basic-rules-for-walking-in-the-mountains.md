@@ -11,4 +11,4 @@ hide_header: false
 ---
 ![Hiking](/images/000029.jpg)
 
-Het is nu echt zo ver! We gaan verhuizen naar Italie! 
+Het is nu echt zo ver! We gaan verhuizen naar Italie!

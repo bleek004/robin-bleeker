@@ -4,8 +4,8 @@ baseURL: "/"
 params:
   palette: yellow
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
+    title: Perla Tranquilla
+    tagline: Het nieuwe thuis van Rob en Monique
     logo_img: images/logo.png
     bg_img: "/images/000029.jpg"
     has_nav: true

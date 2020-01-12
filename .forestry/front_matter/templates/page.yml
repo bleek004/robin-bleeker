@@ -25,6 +25,5 @@ fields:
   config:
     required: true
 pages:
-- content/about.md
 - content/over-ons.md
 - content/style-guide.md

@@ -26,4 +26,5 @@ fields:
     required: true
 pages:
 - content/over-ons.md
+- content/perla-tranquilla.md
 - content/style-guide.md

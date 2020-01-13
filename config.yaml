@@ -6,7 +6,7 @@ params:
   header:
     title: PerlaTranquilla
     tagline: Het nieuwe thuis van Rob en Monique
-    logo_img: images/logo.png2
+    logo_img: images/perlatranquilla.png
     bg_img: "/images/000029.jpg"
     has_nav: true
     has_social: true

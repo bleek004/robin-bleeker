@@ -9,7 +9,7 @@ dataDir: data
 pagesDir: content
 pageLayoutKey: layout
 metadata:
-  title: Fjord
+  title: Perla Tranquilla
   description: A minimal blogging theme
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
@@ -18,7 +18,7 @@ metadata:
     large: images/demo-1024x768.png
 stackbit_banner:
   show_banner: true
-  name: Fjord
+  name: Perla Tranquilla
   create_url: 'https://app.stackbit.com/create?theme=fjord'
   github_url: 'https://github.com/stackbithq/stackbit-theme-fjord'
 sourceMapping:

@@ -1,10 +1,10 @@
 ---
-title: perla tranquilla
+title: perlatranquilla
 baseURL: "/"
 params:
   palette: yellow
   header:
-    title: Perla Tranquilla
+    title: PerlaTranquilla
     tagline: Het nieuwe thuis van Rob en Monique
     logo_img: images/logo.png
     bg_img: "/images/000029.jpg"

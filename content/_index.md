@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Blogs
 layout: home
 menu:
   main:

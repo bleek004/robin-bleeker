@@ -26,7 +26,7 @@
           </header><!-- .post-header -->
           {{ if $post.Params.thumb_img_path }}
           <a class="post-thumbnail" href="{{ $post.URL }}">
-            <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
+            <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" width="150" alt="{{ $post.Params.title }}" />
           </a>
           {{ end }}
           <div class="post-content">

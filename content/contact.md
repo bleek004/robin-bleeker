@@ -6,7 +6,7 @@ subtitle: ''
 menu:
   main:
     name: Contact
-    weight: 4
+    weight: 6
 
 ---
-Om contact op te nemen vul het formulier in of stuur een mail naar perlatranquilla@gmail.com 
+Om contact op te nemen vul het formulier in of stuur een mail naar perlatranquilla@gmail.com

@@ -5,7 +5,7 @@ excerpt = ""
 hide_header = false
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
+thumb_img_path = "/images/20190711_210838.jpg"
 title = "Nieuwsbrief: januari 2020"
 
 +++

@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- content/bereikbaarheid.md
 - content/info-over-de-omgeving.md
 - content/nieuwsbrief-januari-2020.md
 - content/nieuwsbrief-november-2019.md

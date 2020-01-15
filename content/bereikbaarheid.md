@@ -23,7 +23,7 @@ Aangezien ons huis geen straatnaam heeft, kunt u ons vinden door de volgende co√
 
 of de volgende QR code te scannen op u mobiele telefoon:
 
- 
+ ![](/images/IMG-20190818-WA0000.jpg)
 
 Ons postadres (voor brieven en pakketten):
 

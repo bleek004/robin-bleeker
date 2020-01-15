@@ -4,7 +4,6 @@ layout = "page"
 subtitle = "Dit gaat over ons"
 title = "Over ons"
 [menu.main]
-name = "over ons"
 weight = 1
 
 +++

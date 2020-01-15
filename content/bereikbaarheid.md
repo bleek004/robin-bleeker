@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Bereikbaarheid"
 [menu.main]
-weight = 2
+weight = 3
 
 +++
 Bereikbaarheid Casa Tranquilla

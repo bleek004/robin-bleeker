@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Bereikbaarheid"
+[menu.main]
+weight = 2
 
 +++
 Bereikbaarheid Casa Tranquilla

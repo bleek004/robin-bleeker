@@ -7,6 +7,13 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed">
+        img {
+          border: 1px solid #ddd;
+          border-radius: 4px;
+          padding: 5px;
+          width: 150px;
+        }
+
         {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
         {{ range $post := $display_posts }}
         <article class="post">

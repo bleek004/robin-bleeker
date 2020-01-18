@@ -26,6 +26,7 @@ fields:
     required: true
 pages:
 - content/bereikbaarheid.md
+- content/foto-impressie.md
 - content/info-over-de-omgeving.md
 - content/over-ons.md
 - content/perla-tranquilla.md

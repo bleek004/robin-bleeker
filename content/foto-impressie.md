@@ -9,10 +9,11 @@ weight = 5
 
 +++
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/wiRAWTnU8Rzh6gyC6"
   data-title="perla tranquilla"
-  data-description="165 new photos added to shared album">
+  data-description="165 new photos added to shared album"
+  data-repeat="false">
   <object data="https://lh3.googleusercontent.com/YlPBG14SNaaBF5TPadIUJltAiYcpa-iqI2jgE6O1p7pADbTDNqdiHzHBKVpyQe-vsDkmQsz7ldDq1anRu2_VaUjpICA_HO-PkTWAqxdt3j2vTmTZEblnx6EdhG46aZftf015lhQc=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/QipEA7P5z4hfWX7WAO13eERsVnBxhP7YJZDf5QO3OEZ9ctONZvg0gjl_rpuB3HZOybypujbULpHpqslcWADsQh2XNC6iI7MbwGIFE1hutbpOuCPmkTpw2q2J9oAm-AODnMY4lnGR=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/kGpeYVppTtfUH9o0hogX07Vtp3q9j96YmfuCkJKLPrXbHoyxcKnARz0hPG1ZUgTDIDoKdeU5IFsxHpbB-fn55H3pyogBAMqZ3TaQztpwXCNSrUEVRLuuoPSzEcjd-SSSZ__p4wro=w1920-h1080"></object>

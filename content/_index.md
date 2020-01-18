@@ -3,6 +3,6 @@ title: Blogs
 layout: home
 menu:
   main:
-    weight: 5
+    weight: 6
 
 ---

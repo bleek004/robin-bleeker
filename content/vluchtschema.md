@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Vluchtschema"
+[menu.main]
+weight = 4
 
 +++
 ![](/images/20190707_114718.jpg)

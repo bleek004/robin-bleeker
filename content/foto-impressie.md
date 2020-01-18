@@ -9,7 +9,7 @@ weight = 5
 
 +++
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/wiRAWTnU8Rzh6gyC6"
   data-title="perla tranquilla"
   data-description="165 new photos added to shared album">

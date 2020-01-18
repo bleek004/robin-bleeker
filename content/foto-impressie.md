@@ -2,7 +2,7 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "foto impressie"
+title = "Foto Impressie"
 [menu.main]
 name = "Foto impressie"
 weight = 5

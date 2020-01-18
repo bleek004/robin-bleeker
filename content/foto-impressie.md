@@ -11,7 +11,7 @@ weight = 5
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/wiRAWTnU8Rzh6gyC6"
-  data-title="perla tranquilla"
+  data-title=""
   data-description="165 new photos added to shared album"
   data-repeat="false">
   <object data="https://lh3.googleusercontent.com/YlPBG14SNaaBF5TPadIUJltAiYcpa-iqI2jgE6O1p7pADbTDNqdiHzHBKVpyQe-vsDkmQsz7ldDq1anRu2_VaUjpICA_HO-PkTWAqxdt3j2vTmTZEblnx6EdhG46aZftf015lhQc=w1920-h1080"></object>

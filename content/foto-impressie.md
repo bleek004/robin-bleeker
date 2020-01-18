@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "foto impressie"
+[menu.main]
+name = "Foto impressie"
+weight = 5
 
 +++
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>

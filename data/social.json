@@ -2,18 +2,18 @@
   "links": [
     {
       "title": "foto's ",
-      "icon": "fa-camera",
+      "icon": "far fa-camera",
       "url": "https://photos.app.goo.gl/wiRAWTnU8Rzh6gyC6"
     },
     {
       "title": "gmail",
-      "icon": "fa-google",
+      "icon": "fab fa-google",
       "url": "mailto:perlatranquilla@gmail.com"
     },
     {
       "type": "instagram",
       "title": "Instagram",
-      "icon": "fa-instagram",
+      "icon": "fab fa-instagram",
       "url": "https://www.instagram.com/"
     }
   ]

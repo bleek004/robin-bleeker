@@ -33,7 +33,6 @@ weight = 8
         </div>
       </div>
   </div>
- 
 <script type="text/javascript"> 
 $(document).ready(function()
     {

@@ -80,6 +80,7 @@ background:#D9EDF7;
 
 .datetimepicker table td.unavailable {
 background:#C55762;
+text-decoration: line-through;
 color:#fff;
 }
 
